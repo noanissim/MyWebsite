@@ -1,0 +1,35 @@
+  .top-container {
+  background-color: #F8EDED;
+  margin-top: 0px;
+  margin-right: 0px;
+  width: 200px;
+  height: 200px;
+  border: solid 10px;
+  padding: 20px; }
+
+
+
+  h1 {
+    margin-top: 0px; }
+
+
+body {
+    margin: 0px; }
+
+
+    div.seccond-container {
+        width: 200px;
+        height: 200px;
+        background-color: blue;
+        border: solid 20px;
+        margin-left: 260px;
+    }
+
+    div.third-container {
+        width: 200px;
+        height: 200px;
+        background-color: red;
+        border: solid 10px;
+        margin-left: 500px;
+    }
+/* קוביות */
